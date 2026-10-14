@@ -1,0 +1,21 @@
+# Archivos generados por las herramientas
+informe_*.html
+capturas_ua.json
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
